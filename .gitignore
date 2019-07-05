@@ -1,0 +1,11 @@
+# IDE
+.vscode/
+
+# Virtualenv
+venv/
+
+# Python
+__pycache__/
+
+# Output
+*.json
